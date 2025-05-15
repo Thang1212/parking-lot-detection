@@ -1,9 +1,3 @@
-# Machine Learning Visualization Project
-
-This repository contains visualizations for different machine learning algorithms. The images demonstrate clustering, image impression, linear regression, and gradient descent applied to parabolic shapes.
-
-## Visualizations
-
 - Dùng houghline detect các ô đậu xe
 
 ![Parking lot](assets/parking.jpg)
